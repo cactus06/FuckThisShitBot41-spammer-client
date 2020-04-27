@@ -4,3 +4,5 @@ A reddit bot made with PRAW, made by u/Flyingcar12, for that annoying ass cooldo
 you need to fill in your own account and credentials tho...
 
 feel free to branch this bot, but remember that i made is lol, im 13 i dont want to put a license on it haha
+
+edit: im 14 so i added a license 
